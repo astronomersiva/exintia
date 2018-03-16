@@ -1,0 +1,13 @@
+{
+  "name": "exintia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "exintia": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "hasha": "^3.0.0",
+    "htmlparser": "^1.7.7"
+  }
+}
